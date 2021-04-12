@@ -8,3 +8,6 @@
 
 # License
 Licensed under MIT. See [LICENSE](/LICENSE).
+
+# Contributing
+See [CONTRIBUTING.md](/CONTRIBUTING.md).
