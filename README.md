@@ -1,5 +1,8 @@
-# klee-bindings
-This crate contains raw bindings to KLEE.
+# `klee-bindings`
+Raw Rust bindings to KLEE.
 
+-----
+`klee-bindings` does not rely on the standard library and requires the [cty](https://crates.io/crates/cty) crate for both `std` and `no_std` environments.
 
-# klee-bindings
+# License
+Licensed under MIT. See [LICENSE](/LICENSE).
