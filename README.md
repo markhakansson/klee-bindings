@@ -1,4 +1,5 @@
 # `klee-bindings`
+[![Crate](https://img.shields.io/crates/v/klee-bindings)](https://crates.io/crates/klee-bindings)
 > Raw Rust bindings to KLEE
 
 -----
